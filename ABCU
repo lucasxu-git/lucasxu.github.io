@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<style>
+    body {
+        color: black;
+        text-align: center;
+    }
+    img {
+        width: 100%;
+        height: 100%;
+    }
+    .slides {
+        width: 25%;
+        height: 100%;
+        
+    }
+    .slides-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .slides:target {
+        border: 5px black solid;
+        flex-grow: 1;
+    }
+</style>
+<html>
+    <body>
+        <title>ABCU</title>
+        <h1>ABCU</h1>
+        <p>This is for a school project and its really coor</p>
+        <p>Hope you enjoy😎!</p>
+        <div class="slides-container">
+            <a id="a" href="#a" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20!.png" alt="start"></a>
+            <a id="b" href="#b" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20@.png" alt="start"></a>
+            <a id="c" href="#c" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%23.png" alt="start"></a>
+            <a id="d" href="#d" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20%25.png" alt="start"></a>
+            <a id="e" href="#e" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20D.png" alt="start"></a>
+            <a id="f" href="#f" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20$.png" alt="start"></a>
+            <a id="g" href="#g" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20F.png" alt="start"></a>
+            <a id="h" href="#h" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20G.png" alt="start"></a>
+            <a id="i" href="#i" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20h.png" alt="start"></a>
+            <a id="j" href="#j" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20I.png" alt="start"></a>
+            <a id="k" href="#k" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20J.png" alt="start"></a>
+            <a id="l" href="#l" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCU%20K.png" alt="start"></a>
+            <a id="m" href="#m" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABVU%20L.png" alt="start"></a>
+            <a id="n" href="#n" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20M.png" alt="start"></a>
+            <a id="o" href="#o" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/LUCAS%20BABY.png" alt="start"></a>
+            <a id="p" href="#p" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20O.png" alt="start"></a>
+            <a id="q" href="#q" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20P.png" alt="start"></a>
+            <a id="r" href="#r" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20Q.png" alt="start"></a>
+            <a id="s" href="#s" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20R.png" alt="start"></a>
+            <a id="t" href="#t" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20S.png" alt="start"></a>
+            <a id="u" href="#u" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20T.png" alt="start"></a>
+            <a id="v" href="#v" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20U.png" alt="start"></a>
+            <a id="w" href="#w" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20V.png" alt="start"></a>
+            <a id="x" href="#x" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20W.png" alt="start"></a>
+            <a id="y" href="#y" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20X.png" alt="start"></a>
+            <a id="z" href="#z" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20Y.png" alt="start"></a>
+            <a id="!" href="#!" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABCZ.png" alt="start"></a>
+            <a id="@" href="#@" class="slides"><img src = "file:///C:/Users/Lucas/OneDrive/Documents/Pictures/ABC%20Z.png" alt="start"></a>
+        </div>
+    </body>
+</html>
